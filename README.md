@@ -6,6 +6,7 @@ Currently in the development stage, this project is addressing a two-stage optim
 
 The project's primary objective is to streamline the last mile delivery process, enhancing efficiency, reducing costs, and improving customer satisfaction. By optimizing routes and minimizing delivery rejections, the solution promises significant benefits for both logistics providers and end customers alike. We look forward to the successful completion of this project, which has the potential to redefine the modern approach to last mile delivery.
 
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/460ad09e-b6e6-47eb-b950-d086ef62c162" />
 
 
 
